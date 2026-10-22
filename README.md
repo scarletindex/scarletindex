@@ -1,106 +1,96 @@
-# 👋 Hi There
-
-Welcome to the Scarlet Index GitHub profile.
-
 <div align="center">
 
-# ScarletIndex
+# Scarlet Index
 
-### Independent price intelligence for creator subscriptions
+### Creator subscription prices, ranked on what we actually recorded
 
 [![Website](https://img.shields.io/badge/Website-scarletindex.com-08070c?style=for-the-badge)](https://scarletindex.com/)
-[![Audience](https://img.shields.io/badge/Audience-18%2B%20only-red?style=for-the-badge)](https://scarletindex.com/terms/)
+[![Audience](https://img.shields.io/badge/Audience-Adults%20Only-red?style=for-the-badge)](https://scarletindex.com/terms/)
 [![Placement](https://img.shields.io/badge/Paid%20Placement-None-green?style=for-the-badge)](https://scarletindex.com/methodology/)
 
-*We record what creators actually charge, so users don't have to guess.*
+*Every price on our site was observed by us, not supplied by anyone.*
 
 </div>
 
 ---
 
-## 🏢 About Us
+## 🏢 About Scarlet Index
 
-ScarletIndex is an independent data company that tracks and ranks creator subscription prices based on **first-hand observation**. Every price, promotion and post count on our platform is recorded by us, not supplied by creators, agencies or advertisers.
+Scarlet Index is an independent price-tracking index for creator subscriptions. We monitor a large and growing set of creators across many categories and record what each one actually charges. Rankings are built from our own observations, with no paid placement, no sponsored slots and no way to buy a position.
 
-> 🔞 Our platform serves an adult (18+) audience. This organisation page covers company, data and engineering topics only.
+> 🔞 Our platform is intended for adult audiences only. This organisation page covers company, data and engineering topics.
 
 ---
 
-## 📊 Company Snapshot
+## 🎯 Our Mission
 
-| Metric | Value |
+To make creator pricing **transparent, comparable and trustworthy**, so that people can find good value without guesswork and without being steered by advertising.
+
+---
+
+## 💎 What We Stand For
+
+| Principle | What it means |
 |---|---|
-| 👥 Creators tracked | **3,520** |
-| 🗂️ Categories covered | **62** |
-| 💲 Price observations recorded | **17,135** |
-| 📈 Avg. observations per creator | **~4.9** |
-| 🆓 Free-to-subscribe accounts | **1,255** (35.7%) |
-| 🏷️ Accounts running a promotion | **1,161** (33.0%) |
-| 💰 Paid placements sold | **0** |
-| ⏱️ Creator removal turnaround | **≤ 24 hours** |
+| **We measure, we don't guess** | Every account is re-checked on a schedule. Prices, promotions and post counts come from our own observations. |
+| **Nobody pays to be here** | No sponsored placement exists. Ranking rules are published in full. |
+| **History matters** | Observations are stored over time, so we can see what changed and when. |
+| **Creators stay in control** | Any creator can have her profile removed in one simple step, with no proof required. |
+| **Official links only** | We link to creators' own official pages and host no creator media. |
 
 ---
 
-## 🎯 Mission
+## 🔎 What You Can Explore
 
-To make creator pricing **transparent, comparable and trustworthy** through measured data, with no sponsored rankings and no hidden incentives.
-
-## 💎 Core Values
-
-| Value | What it means |
-|---|---|
-| **Measure, don't guess** | Accounts are re-checked on a schedule, and observations are stored over time to track changes. |
-| **Nobody pays to be here** | No sponsored slots and no way to buy a position. Ranking rules are public. |
-| **Creators stay in control** | Any creator can have her profile removed in one step, with no proof required. |
-| **Privacy by design** | We link to official pages and host no creator media. |
-
----
-
-## 📈 Market Data We Publish
-
-| Category | Creators Tracked | Median Price |
-|---|---|---|
-| Custom Content | 701 | $11.45 |
-| Solo | 564 | $11.99 |
-| Sexting | 430 | $12.50 |
-| Cosplay | 233 | $12.69 |
-| Petite | 219 | $12.99 |
-| Fitness | 189 | $10.99 |
-
-**Key takeaways**
-- Median subscription prices in the largest categories sit between **$10 and $13 per month**.
-- About **1 in 3** tracked accounts is free, and about **1 in 3** is running a limited-time deal.
-- Observed promotional discounts reach up to **~90%** off the regular monthly price.
+- **Free accounts:** creators with no monthly fee, the cheapest way to find out whether someone is worth following
+- **Running a deal:** promotional pricing observed on our most recent checks (these expire)
+- **Browse by category:** every category shows its creators and typical price levels
+- **Near me:** find creators by location
+- **Price studies:** data-driven write-ups on how creator pricing behaves
+- **Ranking methodology:** the full rules behind every list
 
 ---
 
 ## 🛠️ What We Build
 
-- **Data collection:** scheduled price and promotion monitoring across 3,520 profiles
-- **Time-series storage:** historical records that show how prices change
-- **Ranking engine:** an open, published methodology applied to every profile
-- **Programmatic content:** 62 category pages and thousands of creator pages
-- **Trust & safety tooling:** removal requests, DMCA handling and compliance workflows
+- Scheduled price and promotion monitoring
+- Time-series storage of historical observations
+- A transparent, published ranking methodology
+- Programmatic category and creator pages
+- Trust and safety tooling, including removal requests and takedown handling
 
 ---
 
-## 🔐 Compliance & Trust
+## 🔗 Important Links
 
-- ✅ Creator opt-out form, actioned within **24 hours**
-- ✅ DMCA process
-- ✅ 18 U.S.C. 2257 compliance page
-- ✅ Published privacy policy and terms
-- ✅ Public ranking methodology
-
----
-
-## 📬 Contact
-
-| | |
+### Explore
+| Link | Description |
 |---|---|
-| 🌐 Website | [scarletindex.com](https://scarletindex.com/) |
-| 📧 Contact | [scarletindex.com/contact](https://scarletindex.com/contact/) |
-| 🧾 Methodology | [How we rank](https://scarletindex.com/methodology/) |
-| 🛑 Creator removal | [Opt-out form](https://scarletindex.com/opt-out/) |
+| 🌐 [Home](https://scarletindex.com/) | Main website |
+| 🗂️ [Categories](https://scarletindex.com/best/) | Browse all categories |
+| 🆓 [Free accounts](https://scarletindex.com/free/) | Creators who are free to subscribe |
+| 📍 [Near me](https://scarletindex.com/near-me/) | Location-based discovery |
+| 📊 [Price studies](https://scarletindex.com/study/) | Pricing research and analysis |
 
-<sub>ScarletIndex is independent and not affiliated with OnlyFans or Fenix International Limited.</sub>
+### Trust & Transparency
+| Link | Description |
+|---|---|
+| 🧾 [How we rank](https://scarletindex.com/methodology/) | Full ranking methodology |
+| 🛑 [Creator removal](https://scarletindex.com/opt-out/) | One-step profile removal form |
+| ©️ [DMCA](https://scarletindex.com/dmca/) | Copyright takedown process |
+| 📄 [2257 compliance](https://scarletindex.com/2257/) | Record-keeping compliance statement |
+
+### Legal & Support
+| Link | Description |
+|---|---|
+| 🔐 [Privacy](https://scarletindex.com/privacy/) | Privacy policy |
+| 📜 [Terms](https://scarletindex.com/terms/) | Terms of use |
+| 📧 [Contact](https://scarletindex.com/contact/) | Get in touch |
+
+---
+
+<div align="center">
+
+<sub>Scarlet Index is independent and not affiliated with OnlyFans or Fenix International Limited. Adults only.</sub>
+
+</div>
